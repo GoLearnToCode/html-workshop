@@ -79,7 +79,6 @@ Generally speaking, attributes represent data that is important for the web brow
 ### Nesting
 
 HTML elements may be **nested**, that is, you can have elements inside of other elements. For example, a `ul` (unordered list) has individual `li` (list items) inside of it.
-
 ```html
 <ul>
   <li>Oreos</li>
